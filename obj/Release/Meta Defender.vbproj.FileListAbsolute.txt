@@ -1,0 +1,26 @@
+C:\Users\GuezGuez\Desktop\Meta Defender\bin\Release\Meta Defender V0.2.exe.config
+C:\Users\GuezGuez\Desktop\Meta Defender\bin\Release\Meta Defender V0.2.exe
+C:\Users\GuezGuez\Desktop\Meta Defender\bin\Release\Meta Defender V0.2.pdb
+C:\Users\GuezGuez\Desktop\Meta Defender\bin\Release\Meta Defender V0.2.xml
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\Meta Defender.vbprojAssemblyReference.cache
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\MetaDefender.FrmApiKey.resources
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\MetaDefender.Resources.resources
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\MetaDefender.FrmMain.resources
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\Meta Defender.vbproj.GenerateResource.cache
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\Meta Defender.vbproj.CoreCompileInputs.cache
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\Meta Defender V0.2.exe
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\Meta Defender V0.2.xml
+C:\Users\GuezGuez\Desktop\Meta Defender\obj\Release\Meta Defender V0.2.pdb
+E:\My Projects\Visual Studio\Program\Meta Defender\bin\Release\Meta Defender V0.2.exe.config
+E:\My Projects\Visual Studio\Program\Meta Defender\bin\Release\Meta Defender V0.2.exe
+E:\My Projects\Visual Studio\Program\Meta Defender\bin\Release\Meta Defender V0.2.pdb
+E:\My Projects\Visual Studio\Program\Meta Defender\bin\Release\Meta Defender V0.2.xml
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\Meta Defender.vbprojAssemblyReference.cache
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\MetaDefender.FrmApiKey.resources
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\MetaDefender.Resources.resources
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\MetaDefender.FrmMain.resources
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\Meta Defender.vbproj.GenerateResource.cache
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\Meta Defender.vbproj.CoreCompileInputs.cache
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\Meta Defender V0.2.exe
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\Meta Defender V0.2.xml
+E:\My Projects\Visual Studio\Program\Meta Defender\obj\Release\Meta Defender V0.2.pdb
